@@ -1,0 +1,6 @@
+= Drafts: JSON Snippets Theme
+andreas.felix.haeberle@gmail.com
+2021-02-14
+
+TIP: parts to define custom themes.
+

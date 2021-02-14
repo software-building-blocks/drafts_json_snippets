@@ -1,0 +1,38 @@
+= Drafts: JSON Snippets 
+andreas.felix.haeberle@gmail.com
+2021-02-14
+//https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+TIP: helper and templates.
+
+== Content
+
+._common
+[%collapsible]
+====
+include::_common/readme.adoc[lines=3..10]
+====
+
+.syntax
+[%collapsible]
+====
+include::syntax/readme.adoc[lines=3..10]
+====
+
+.theme
+[%collapsible]
+====
+include::theme/readme.adoc[lines=3..10]
+====
+
+== More ...
+
+.link collection
+[%collapsible]
+====
+. Drafts Docs Syntax:: https://docs.getdrafts.com/docs/extending/syntax-definitions/syntax-definitions
+. https://docs.getdrafts.com/docs/extending/theme-definitions/themes
+. https://regex101.com
+. https://json-schema.org/
+. (https://jsonschema.net/home)
+====

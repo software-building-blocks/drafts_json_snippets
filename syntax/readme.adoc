@@ -1,0 +1,7 @@
+= Drafts: JSON Snippets Syntax
+andreas.felix.haeberle@gmail.com
+2021-02-14
+//https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+TIP: parts to define custom syntaxes.
+
